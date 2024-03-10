@@ -7,4 +7,5 @@
 [submodule "lib/rf_diffusion_all_atom"]
 	path = lib/rf_diffusion_all_atom
 	url = https://github.com/engelberger/rf_diffusion_all_atom.git
+	branch = colab_march_2024
 
