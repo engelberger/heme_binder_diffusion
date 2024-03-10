@@ -7,6 +7,4 @@
 [submodule "lib/rf_diffusion_all_atom"]
 	path = lib/rf_diffusion_all_atom
 	url = https://github.com/engelberger/rf_diffusion_all_atom.git
-[submodule "rf_diffusion_all_atom"]
-	path = rf_diffusion_all_atom
-	url = https://github.com/engelberger/rf_diffusion_all_atom.git
+
